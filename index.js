@@ -22,4 +22,4 @@ divide(45,5)
 function inc(n) {
   return n++
 }
-inc(11)
+inc(485)
