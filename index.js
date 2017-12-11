@@ -28,3 +28,7 @@ function dec(n) {
   return --n
 }
 dec(107)
+
+function makeInt(n) {
+  return
+}
