@@ -19,3 +19,7 @@ function divide(a,b) {
 }
 divide(45,5)
 
+function inc(n) {
+  return n++
+}
+inc(11)
