@@ -23,3 +23,8 @@ function inc(n) {
   return ++n
 }
 inc(485)
+
+function dec(n) {
+  return --n
+}
+dec(107)
