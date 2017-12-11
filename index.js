@@ -4,3 +4,18 @@ function add(a,b) {
 }
 add(1,2)
 
+function subtract(a,b) {
+  return a - b
+}
+subtract(10,6)
+
+function multiply(a,b) {
+  return a * b
+}
+multiply(5,7)
+
+function divide(a,b) {
+  return a / b
+}
+divide(45,5)
+
